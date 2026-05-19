@@ -1,16 +1,31 @@
-# React + Vite
+# 📊 METRO. SaaS - Premium React Admin Dashboard Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A highly optimized, enterprise-grade admin dashboard infrastructure built from scratch using the cutting-edge **React 19** and **Tailwind CSS v4**. 
 
-Currently, two official plugins are available:
+Designed for backend developers and indie hackers who want to launch their SaaS products with a stunning, production-ready frontend interface in seconds.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🛒 GET THE PRODUCTION-READY PACKAGE ($23)
+The core open-source files are available below. For the **Full Production Package** including advanced state management, mock data generation engines, customized metrics, and lifetime support:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+👉 **[Get Premium Package on Gumroad ($23)](https://ahmetemre23.gumroad.com/l/metro-saas-react-dashboard)**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Key Features Built In This Repository
+* **Modern Tech Stack:** React 19 (Functional Component Architecture) & Vite Bundler.
+* **Next-Gen Styling:** Fully responsive grids powered by Tailwind CSS v4.
+* **Premium Dark Theme:** Eye-pleasing corporate neon and deep slate aesthetics.
+* **Smart Filtering:** Instant search mechanics inside data grids.
+* **Icon Library Integration:** Lightweight vector visualization using Lucide React.
+
+## 🛠️ Quick Start For Developers
+
+Clone the repository and install dependencies to spin up your instance:
+
+```bash
+git clone [https://github.com/efecan10/metro-saas-react-dashboard.git](https://github.com/efecan10/metro-saas-react-dashboard.git)
+cd metro-saas-react-dashboard
+npm install
+npm run dev
